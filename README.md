@@ -2,7 +2,7 @@
 
 ## 🛠️ Backend Developer | Django & DRF Enthusiast
 
-🎓 Currently studying at **Columbia Gorge Community College**, I'm a backend developer passionate about building scalable and reliable web systems. I specialize in Python, Django, and Django REST Framework (DRF), and I’m continuously exploring tools that enhance performance and architecture.
+🎓 Currently studying at **Bengal College of Engineering and Technology**, I'm a backend developer passionate about building scalable and reliable web systems. I specialize in Python, Django, and Django REST Framework (DRF), and I’m continuously exploring tools that enhance performance and architecture.
 
 ---
 
